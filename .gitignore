@@ -1,2 +1,4 @@
 # ignore generated files
 /tmp
+*.synctex.gz
+.DS_Store
